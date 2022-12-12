@@ -1,0 +1,471 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "DbContextAlmaNet",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "DRR.Core.DBAlmaNET",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[AccesoAutorizacion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AccesoEspecial]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AplicacionLicencia]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AplicacionLicenciaActividad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AplicacionLicenciaModulo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AplicacionModulo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ArchivoModelo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Banco]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BancoSucursal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BilletesDesglose]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BuscarConfiguracion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ComercioTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ComprobanteTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ComprobanteTipoOperacionTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ConfiguracionNET]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ContabilidadIndiceAjusteInflacion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CultureInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DomicilioTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmailTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmpaqueTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmpleadoTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Empresa]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmpresaTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmpresaUsuario]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EntidadGrupoSangineoTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EntidadSucursalTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EntidadTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EquipoEmpresa]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ErrorMessage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EstadoCivilTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Form]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FormCampos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[IdentificacionTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Impuesto]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoBaseImponible]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoCategoria]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoCodigoActividad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoDesglose]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoEmisionComprobante]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoPorCodigoActividadComprador]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoPorCodigoActividadVendedor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoPorEmisionComprobante]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoPorZonaComprador]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoPorZonaCompradorCategoria]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoPorZonaVendedor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoPorZonaVendedorCategoria]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImpuestoZona]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InasistenciaTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InstitucionBeneficencia]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Licencia]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LicenciaIndiceTabla]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Login]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LoginPermiso]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MercadoPagoCuenta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MonedaTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Moroso]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MuestreoVenta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NoticiaCanal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NoticiaCanalTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NoticiaTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OperacionDebitoCreditoTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OperacionTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrdenServicioMantenimientoTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PadronAfip]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PagoRegistroTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Pais]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PaisCuit]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PaisProvinciaEstado]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PaisProvinciaEstadoCiudad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Perfil]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Permiso]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermisoAccesoEspecial]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermisoForm]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermisoFormCampos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermisoReporte]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermisosGenericos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermisoTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermisoWebForm]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlanDeCuentasCentroCostoTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductoNroSerieDetalleTipoCalculos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductoTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Reporte]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReporteModificado]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SeguroPolizaTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TableDB]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TableName]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TelefonosTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TipoCodigoBarra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteCombustibleTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteCombustionTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteCubiertaCondicion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteCubiertaDiseno]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteCubiertaEstado]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteCubiertaMarca]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteCubiertaMedida]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteDireccionTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteTransmisionTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteVehiculoMarca]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TransporteVehiculoTipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TypeControl]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UnidadesMedidaBase]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsuarioAlmaMobile]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsuarioAlmaNet]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsuarioAlmaNetAuditoria]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsuarioAlmaNETEquipo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsuarioPerfil]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsuarioWeb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VersionLog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WebForm]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "ixk16z8qz0.AlmaNET",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
